@@ -4,7 +4,7 @@ import { getContract } from "../utils/getContract";
 import { ethers } from "ethers";
 import axios from "axios";
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:3000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://dao-hall.onrender.com";
 
 const TransferAdmin = () => {
   const [email, setEmail] = useState("");

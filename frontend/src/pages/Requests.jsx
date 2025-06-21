@@ -3,7 +3,7 @@ import axios from "axios";
 import { getContract } from "../utils/getContract";
 import Navbar from "../components/Navbar";
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:3000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://dao-hall.onrender.com";
 
 const Request = () => {
   const [requests, setRequests] = useState([]);

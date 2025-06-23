@@ -44,7 +44,7 @@ const Navbar = ({ address }) => {
     <nav className="bg-gray-900 text-white px-6 py-4 shadow-md">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <Link to="/" className="text-2xl font-bold text-purple-400">
-          🏛️ HallChain
+          🏛️ DAOmocracy
         </Link>
 
         <button className="md:hidden" onClick={() => setMenuOpen(!menuOpen)}>

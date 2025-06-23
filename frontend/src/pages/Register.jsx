@@ -54,7 +54,7 @@ const Register = () => {
         {/* Info Side */}
         <div className="md:w-1/2 hidden md:block pr-12">
           <h1 className="text-4xl font-extrabold text-purple-400 mb-4 animate-pulse">
-            🗳️ Join HallChain
+            🗳️ Join DAOmocracy
           </h1>
           <p className="text-gray-300 text-lg">
             Be part of transparent and secure voting in your hall. Once registered, your account will be reviewed and added to upcoming proposals!

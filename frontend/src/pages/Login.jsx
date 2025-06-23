@@ -82,7 +82,7 @@ const Login = () => {
       <div className="min-h-screen bg-gray-900 text-white flex flex-col md:flex-row items-center justify-center px-4 py-12">
         {/* Left panel with welcome text */}
         <div className="md:w-1/2 mb-10 md:mb-0 md:pr-10 text-center md:text-left">
-          <h1 className="text-4xl font-bold text-purple-400 mb-4">Welcome to HallChain 🏛️</h1>
+          <h1 className="text-4xl font-bold text-purple-400 mb-4">Welcome to DAOmocracy 🏛️</h1>
           <p className="text-gray-300 text-lg">
             A secure and transparent blockchain-based voting platform built for your IIT Hall.
             Cast your votes confidently, track proposals, and help shape the future of your community.
@@ -94,7 +94,7 @@ const Login = () => {
 
         {/* Right panel with login form */}
         <div className="w-full md:w-1/2 max-w-md bg-gray-800 rounded-xl p-8 shadow-lg border border-purple-700">
-          <h2 className="text-2xl font-bold mb-6 text-center">🔐 Login to HallChain</h2>
+          <h2 className="text-2xl font-bold mb-6 text-center">🔐 Login to DAOmocracy</h2>
 
           {status && (
             <div

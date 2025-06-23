@@ -136,7 +136,7 @@ const CreateProposal = () => {
               </ul>
 
               <div className="mt-8">
-                <h4 className="text-lg font-semibold text-purple-400 mb-2">🛡️ Powered by HallChain</h4>
+                <h4 className="text-lg font-semibold text-purple-400 mb-2">🛡️ Powered by DAOmocracy</h4>
                 <p className="text-gray-400 text-sm">
                   Your proposal will be recorded on-chain to ensure transparency and integrity of the voting process.
                 </p>

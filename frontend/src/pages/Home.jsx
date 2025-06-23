@@ -47,7 +47,7 @@ const Home = () => {
       <div className="flex-grow flex items-center justify-center px-6">
         <div className="max-w-4xl w-full text-center">
           <h1 className="text-5xl md:text-6xl font-extrabold mb-6 leading-tight">
-            🏛️ HallChain
+            🏛️ DAOmocracy
           </h1>
           <p className="text-lg md:text-xl mb-8 text-gray-300">
             A decentralized voting & budget system for your IIT Hall. Propose ideas, vote securely, and ensure transparency — all powered by blockchain.
